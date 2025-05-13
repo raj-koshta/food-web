@@ -11,7 +11,7 @@ const App = () => {
       element: <AppLayout />,
       children: [
         {
-          path: "/",
+          path: "/food-web/",
           element: <Home />
         },
       ]
